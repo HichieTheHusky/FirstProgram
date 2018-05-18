@@ -1,0 +1,30 @@
+﻿Build started 5/18/2018 10:16:12 PM.
+     1>Project "C:\Users\lukas\Desktop\Beveik galutinis baigiamis darbas Luko Zumaro 2018-04-14 atliktas jkm 103 c kabinete k23 kompe\test_one\Project1\Project1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib Detales.cpp MyForm.cpp Redag_Detale.cpp
+         Detales.cpp
+         MyForm.cpp
+     1>c:\users\lukas\desktop\beveik galutinis baigiamis darbas luko zumaro 2018-04-14 atliktas jkm 103 c kabinete k23 kompe\test_one\project1\MyForm.h(251): warning C4566: character represented by universal-character-name '\u0117' cannot be represented in the current code page (1252)
+         Redag_Detale.cpp
+         Generating Code...
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /TP /analyze- /errorReport:prompt "C:\Users\lukas\AppData\Local\Temp\.NETFramework,Version=v4.5.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.5.AssemblyAttributes.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\lukas\Desktop\Beveik galutinis baigiamis darbas Luko Zumaro 2018-04-14 atliktas jkm 103 c kabinete k23 kompe\test_one\Project1\Debug\Project1.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\Project1.Detales.resources /ASSEMBLYRESOURCE:Debug\Project1.Linija.resources /ASSEMBLYRESOURCE:Debug\Project1.MyForm.resources /ASSEMBLYRESOURCE:Debug\Project1.Operatoriai.resources /ASSEMBLYRESOURCE:Debug\Project1.Redag_Detale.resources /ASSEMBLYRESOURCE:Debug\Project1.Redag_LINE.resources /ASSEMBLYRESOURCE:Debug\Project1.Redag_OP.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\lukas\Desktop\Beveik galutinis baigiamis darbas Luko Zumaro 2018-04-14 atliktas jkm 103 c kabinete k23 kompe\test_one\Project1\Debug\Project1.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\Class_LINE.obj
+         Debug\Class_OP.obj
+         Debug\Class_part.obj
+         Debug\Detales.obj
+         Debug\Glob.obj
+         Debug\Linija.obj
+         Debug\MyForm.obj
+         Debug\Operatoriai.obj
+         Debug\Redag_Detale.obj
+         Debug\Redag_LINE.obj
+         Debug\Redag_OP.obj
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         Project1.vcxproj -> C:\Users\lukas\Desktop\Beveik galutinis baigiamis darbas Luko Zumaro 2018-04-14 atliktas jkm 103 c kabinete k23 kompe\test_one\Project1\Debug\Project1.exe
+     1>Done Building Project "C:\Users\lukas\Desktop\Beveik galutinis baigiamis darbas Luko Zumaro 2018-04-14 atliktas jkm 103 c kabinete k23 kompe\test_one\Project1\Project1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.21
